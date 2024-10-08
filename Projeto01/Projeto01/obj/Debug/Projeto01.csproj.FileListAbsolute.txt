@@ -1,0 +1,10 @@
+D:\Curso\C#\Projeto01\Projeto01\bin\Debug\Projeto01.exe.config
+D:\Curso\C#\Projeto01\Projeto01\bin\Debug\Projeto01.exe
+D:\Curso\C#\Projeto01\Projeto01\bin\Debug\Projeto01.pdb
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.AssemblyReference.cache
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.FrmPrincipal.resources
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.Properties.Resources.resources
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.GenerateResource.cache
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.exe
+D:\Curso\C#\Projeto01\Projeto01\obj\Debug\Projeto01.pdb
